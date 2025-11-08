@@ -1,6 +1,6 @@
 filters:
   - name: status
     values: [active, inactive]
-  - name: priority
+  - name: post-priority
     values: [high, medium, low, normal]
 
